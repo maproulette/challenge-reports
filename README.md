@@ -12,6 +12,7 @@ Reported Challenge #[CHALLENGE_ID] - [CHALLENGE TITLE]
 ### Description
 
 Challenge: [[CHALLENGE_ID] - [CHALLENGE TITLE]]() *# Link goes to Challenge browse page*
+
 Reported by: [OSM_USERNAME]() *# Link goes to osm.org/user/OSM_USERNAME*
 
 [The text that was entered by the user in the Report UI]
